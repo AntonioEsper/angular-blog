@@ -1,1 +1,21 @@
 /* You can add global styles to this file, and also import other style files */
+*
+{
+  background-color: #111111;
+  color: #ffffff;
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a
+{
+  text-decoration: none;
+  color: #ffffff;
+}
+
+a:hover
+{
+  color: #e7c8fc;
+}
