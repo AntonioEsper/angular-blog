@@ -18,11 +18,11 @@
 }
 
 .big-card-title {
-  font-size: 1.2rem;
+  font-size: 1rem;
   font-weight: 600;
   margin: 10px;
   max-width: 80%;
-  text-align: center;
+  text-align: left;
 }
 
 
@@ -31,7 +31,7 @@
 
   color: rgb(141, 141, 141);
   max-width: 70%;
-  text-align: center;
+  text-align: left;
 
 
 }
