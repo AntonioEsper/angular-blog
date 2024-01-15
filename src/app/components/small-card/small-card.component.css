@@ -34,17 +34,31 @@ hr {
 
 @media screen and (max-width: 768px) {
   .container__small-card {
+    display: flex;
     flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin-top: 10px;
+
   }
   .small-card-photo {
     margin-right: 0px;
     margin-bottom: 10px;
   }
   .small-card-title {
-    margin: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+    font-weight: 700;
+    margin: 5px;
   }
   hr {
-    margin: 0px;
+    color: #ffffff;
+    background-color: #ffffff;
+    height: 1px;
+    width: 100%;
   }
 
 }
